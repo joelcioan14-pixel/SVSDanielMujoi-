@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  color: white;
+  text-align: center;
+  padding: 50px;
+  margin: 0;
+}
+
+h1 {
+  tamanho da fonte : 3em ;
+}
+
+botão {
+  fundo : branco ;
+  cor : #2575fc;
+  preenchimento : 15 px  30 px ;
+  tamanho da fonte : 1,2 em ;
+  borda : nenhuma ;
+  raio da borda : 50 px ;
+  cursor : ponteiro ;
+}
+
+botão: passar o mouse  {
+  fundo : #2575fc;
+  cor : branca ;
+  }
